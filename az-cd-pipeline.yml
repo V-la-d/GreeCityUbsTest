@@ -1,4 +1,5 @@
-pr:
+trigger:
+  batch: true
   branches:
     include:
     - dev, master
@@ -22,7 +23,7 @@ variables:
   
   azureSub: GreenCity
   resourceGroup: GreenCity
-  userServiceName: greencity-ubs
+  userServiceName: greencity-ubs-new
 
 stages:
 - stage: Build
