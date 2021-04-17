@@ -49,9 +49,6 @@ public class ManagementOrderController {
         @ApiIgnore Pageable pageable) {
         return ResponseEntity.status(HttpStatus.OK).body(ubsManagementService.getAllCertificates(pageable));
     }
-    
-    
-
     /**
      * Controller getting all certificates with sorting possibility.
      *
