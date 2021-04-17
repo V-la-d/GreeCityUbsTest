@@ -56,7 +56,7 @@ public class OrderController {
     }
 
     /**
-     * Controller returns entered certificate status if not absent.
+     * Controllerw returns entered certificate status if not absent.
      *
      * @param code {@link String} code of certificate.
      * @return {@link CertificateDto}.
