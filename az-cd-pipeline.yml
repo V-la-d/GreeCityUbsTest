@@ -1,4 +1,7 @@
-trigger:
+trigger: none
+  branches:
+    include:
+    - dev, master
   paths:
     exclude:
     - README.md
