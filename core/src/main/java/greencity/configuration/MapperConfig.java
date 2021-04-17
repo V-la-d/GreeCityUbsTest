@@ -16,7 +16,7 @@ public class MapperConfig {
      * matching fields to be enabled. Skips when the property value is {@code null}.
      * Sets {@code AccessLevel} to private.
      *
-     * @param converters Converters, that are used by {@link ModelMapper} and are
+     * @param converters Converters, that are used1 by {@link ModelMapper} and are
      *                   discovered by Spring.
      * @return the configured instance of {@code ModelMapper}.
      */
