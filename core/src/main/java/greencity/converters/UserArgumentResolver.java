@@ -12,6 +12,8 @@ import greencity.annotations.CurrentUserUuid;
 
 import java.security.Principal;
 
+
+
 @Component
 @AllArgsConstructor
 public class UserArgumentResolver implements HandlerMethodArgumentResolver {
