@@ -23,7 +23,7 @@ public class ManagementOrderController {
     private final ModelMapper mapper;
 
     /**
-     * Constructor with parameters.
+     * Constructorк with parameters.
      */
     @Autowired
     public ManagementOrderController(UBSManagementService ubsManagementService, ModelMapper mapper) {
