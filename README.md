@@ -18,7 +18,7 @@ Here is the front-end part of our project: https://github.com/ita-social-project
 
 You're encouraged to contribute to our project if you've found any issues or missing functionality that you would want to see. Here you can see [the list of issues](https://github.com/ita-social-projects/GreenCity/issues) and here you can create [a new issue](https://github.com/ita-social-projects/GreenCity/issues/new).
 
-Before sending any pull request, please discuss requirements/changes to be implemented using an existing issue or by creating a new one. All pull requests should be done into `dev` branch.
+Before sending any pul1l request, please discuss requirements/changes to be implemented using an existing issue or by creating a new one. All pull requests should be done into `dev` branch.
 
 Though there are four GitHub projects ([GreenCity](https://github.com/ita-social-projects/GreenCity), [GreenCityUser](https://github.com/ita-social-projects/GreenCityUser) and [GreenCityUBS](https://github.com/ita-social-projects/GreenCityUBS) for back-end part and [GreenCityClient](https://github.com/ita-social-projects/GreenCityClient) for front-end part) all of the issues are listed in the first one - [GreenCity](https://github.com/ita-social-projects/GreenCity).
 
