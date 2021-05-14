@@ -35,6 +35,9 @@
         <sonar.jacoco.reportPath>${project.basedir}/../target/jacoco.exec</sonar.jacoco.reportPath>
         <sonar.language>java</sonar.language>
         <telegram.version>5.0.1</telegram.version>
+            <sonar.projectKey>V-la-d_GreeCityUbsTest</sonar.projectKey>
+            <sonar.organization>v-la-d</sonar.organization>
+            <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
 
