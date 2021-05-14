@@ -26,7 +26,7 @@ public class OrderController {
     private final UBSClientService ubsClientService;
 
     /**
-     * Constructor with parameters.
+     * Constructor with paуrameters.
      */
     @Autowired
     public OrderController(UBSClientService ubsClientService) {
